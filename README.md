@@ -1,4 +1,4 @@
-- Hi, I’m Srinija. I’m interested in Machine Leaning and Robotics, currently learning Python, Full stack and looking to collaborate on ML/A.I projects!
+- Hi, I’m Srinija. I’m interested in Machine Leaning and Robotics, currently learning Python, Front end!
 - How to reach me: srinija.pathapadu@gmail.com or discord: srinija579 and X: Pathapadu16979
 
 
